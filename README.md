@@ -1,2 +1,2 @@
 # WarOfSpace
-The first ios game i have made for my iphone 8plus
+- This project using Swift and the SpriteKit framework
